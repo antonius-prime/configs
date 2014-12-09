@@ -1,0 +1,59 @@
+ls
+ls elpa/
+exit
+chmod + xmonad.sh 
+ll
+ls -la
+chmod +x xmonad.sh 
+./xmonad.sh 
+locate javacontr
+exit
+cp ~/fax/ropaeruj/hw2/
+cp ~/fax/ropaeruj/hw2/02-zad-prijenosna.txt .
+exit
+ls
+wc 
+wc *
+cat *
+cat *
+exit
+runhaskell zerofact.hs 5 n
+runhaskell zerofact.hs 15 n
+time runhaskell zerofact.hs 15 n
+time runhaskell zerofact.hs 25 n
+time runhaskell zerofact.hs 30 n
+time runhaskell zerofact.hs 30 n
+time runhaskell zerofact.hs 50 n
+time runhaskell zerofact.hs 150 n
+time runhaskell zerofact.hs 150 n
+time runhaskell zerofact.hs 200 n
+time runhaskell zerofact.hs 1000 n
+time runhaskell zerofact.hs 10000 n
+time runhaskell zerofact.hs 100000 n
+time runhaskell zerofact.hs 50000 n
+time runhaskell zerofact.hs 50000 n
+time runhaskell zerofact.hs 50000 !
+time runhaskell zerofact.hs 50000 !
+time runhaskell zerofact.hs 100000 !
+time runhaskell zerofact.hs 100000 f
+time runhaskell zerofact.hs 100000 f
+time runhaskell zerofact.hs 100000 !
+time runhaskell zerofact.hs 500000 !
+time runhaskell zerofact.hs 500000 F
+time runhaskell zerofact.hs 1500000 F
+time runhaskell zerofact.hs 1500000 !
+time runhaskell zerofact.hs 1500000 !
+time runhaskell zerofact.hs 5000000 !
+time runhaskell zerofact.hs 5000000 f
+time runhaskell zerofact.hs 5000000 1
+time runhaskell zerofact.hs 15000000 1
+time runhaskell zerofact.hs 15000000 !
+time runhaskell zerofact.hs 100000000 !
+time runhaskell zerofact.hs 100000000 f
+time runhaskell zerofact.hs 1000000000 f
+time runhaskell zerofact.hs 10000000000 f
+time runhaskell zerofact.hs 100000000000 f
+time runhaskell zerofact.hs 1000000000000 f
+time runhaskell zerofact.hs 10000000000000 f
+git status
+git pull
