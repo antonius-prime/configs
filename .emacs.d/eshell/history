@@ -1,0 +1,128 @@
+psql -U postgres -W haskelldb
+psql -U postgres -W haskelldb
+psql
+psql haskelldb
+psql haskelldb
+groups
+psql haskelldb
+psql haskelldb
+ls
+ls
+pwd
+cabal init
+ls
+mkdir opaltest
+ls -la
+mv opaltest.cabal Setup.hs opaltest/
+cd opaltest/
+ls
+less Setup.hs 
+cat opaltest.cabal 
+cabal sandbox init
+cabal install opaleye
+cabal install opaleye
+ls
+mkdir src
+cabal install product-cofunctor
+cabal install   product-cofunctors
+cabal update
+cabal -version
+cabal --version
+which cabal
+cabal install   cabal-install
+cabal --version
+cd ..
+cabal install   cabal-install
+cabal update
+cabal install   cabal-install
+cabal --version
+printenv PATH
+~/.cabal/bin/cabal -v
+~/.cabal/bin/cabal --version
+~/.cabal/bin/cabal update
+~/.cabal/bin/cabal install cabal-install
+ls
+cd opaltest/
+ls
+cd ..
+cd opaltest/
+ls
+cd src/
+;s
+ls
+psql
+psql haskelldb
+cd /var/www
+ls
+ls
+cabal init
+ls
+ls
+cd insurence_sys/
+ls
+cabal sandbox init
+cabal init 
+mkdir src
+cd ..
+ls
+ghc --version
+ghc
+runhaskell --versio
+runhaskell --version
+cabal --version
+ghci --version
+ghc --version
+git status
+git add *
+git pull
+rm .gitignore 
+mv cabal.sandbox.config cabal.sandbox.config.bek
+git status
+git pull
+git status
+ls
+mv cabal.sandbox.config.bek cabal.sandbox.config
+ls
+git status
+ghc --version
+ghci --version
+which ghc
+printenv PATH
+export PATH="$PATH:/opt/ghc/7.8.4/bin/:/opt/ghc/7.8.4/bin"
+printenv PATH
+printenv PATH
+which ghc
+pwd
+cd /ssh:antonio@10.0.0.84:/opt/
+ls
+cd ghc/
+ls
+cd  7.8.4/
+ls
+cd bin/
+ls
+pwd
+printenv PATH
+which ghc
+exit
+printenv PATH
+which ghc
+ghc
+export PATH="$PATH:/ssh:antonio@10.0.0.84:/opt/ghc/7.8.4/bin"
+$PATH
+which ghc
+cd /ssh:antonio@10.0.0.84:/opt/ghc/7.8.4/bin
+ls
+./ghc
+cd
+which ghc
+cd /ssh:antonio@10.0.0.84:/opt/ghc/7.8.4/bin
+which ghc
+python
+exit
+ls
+pwd
+cp -r local-projects/lisp-cv/ dists/quicklisp/software/
+cd
+python test.py 
+python test.py 

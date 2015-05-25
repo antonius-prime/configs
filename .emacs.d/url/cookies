@@ -1,0 +1,18 @@
+;; Emacs-W3 HTTP cookies file
+;; Automatically generated file!!! DO NOT EDIT!!!
+
+(setq url-cookie-storage
+ '(("www.fer2.net"
+  [url-cookie "bblastactivity" "0" "01-Apr-2016 07:42:44.00 GMT" "/" "www.fer2.net" nil]
+  [url-cookie "bblastvisit" "1427960564" "01-Apr-2016 07:42:44.00 GMT" "/" "www.fer2.net" nil])
+ (".haskell.org"
+  [url-cookie "HttpOnly" nil "01 Apr 16 08:01:54 [GMT]" "/" ".haskell.org" nil]
+  [url-cookie "__cfduid" "df6ca0633454c3c9c940343bc35c2bad41427961714" "01 Apr 16 08:01:54 [GMT]" "/" ".haskell.org" nil]))
+)
+(setq url-cookie-secure-storage
+ 'nil)
+
+;; Local Variables:
+;; version-control: never
+;; no-byte-compile: t
+;; End:
